@@ -32,6 +32,7 @@ Run the script:
 Requirements 📋
 
 proxychains
+
 curl
 
 Description 📝
