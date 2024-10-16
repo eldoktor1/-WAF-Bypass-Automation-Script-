@@ -13,14 +13,14 @@ Installation ⚙️
 
 To install, clone the repository using the following command:
 
-    git clone https://github.com/eldoktor1/-WAF-Bypass-Automation-Script-.git
+    git clone https://github.com/eldoktor1/WAF-Bypass-Automation-Script.git
 
 Usage 💻
 
 Make sure proxychains and curl are installed.
 Navigate to the directory and give execution permissions to the script:
 
-    cd -WAF-Bypass-Automation-Script-
+    cd WAF-Bypass-Automation-Script
     chmod +x d0k_waf_bypass.sh
 
 Run the script:
