@@ -21,13 +21,13 @@ Make sure proxychains and curl are installed.
 Navigate to the directory and give execution permissions to the script:
 
     cd -WAF-Bypass-Automation-Script-
-    chmod +x waf_bypass.sh
+    chmod +x d0k_waf_bypass.sh
 
 Run the script:
 
-    ./waf_bypass.sh
+    ./d0k_waf_bypass.sh
 
-    Input the target URL when prompted and let the script run.
+Input the target URL when prompted and let the script run.
 
 Requirements 📋
 
