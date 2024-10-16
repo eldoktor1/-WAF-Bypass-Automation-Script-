@@ -13,23 +13,17 @@ Installation ⚙️
 
 To install, clone the repository using the following command:
 
-bash
-
-git clone https://github.com/eldoktor1/-WAF-Bypass-Automation-Script-.git
+    git clone https://github.com/eldoktor1/-WAF-Bypass-Automation-Script-.git
 
 Usage 💻
 
-    Make sure proxychains and curl are installed.
-    Navigate to the directory and give execution permissions to the script:
+Make sure proxychains and curl are installed.
+Navigate to the directory and give execution permissions to the script:
 
-    bash
-
-cd -WAF-Bypass-Automation-Script-
-chmod +x waf_bypass.sh
+    cd -WAF-Bypass-Automation-Script-
+    chmod +x waf_bypass.sh
 
 Run the script:
-
-bash
 
     ./waf_bypass.sh
 
@@ -37,8 +31,8 @@ bash
 
 Requirements 📋
 
-    proxychains
-    curl
+proxychains
+curl
 
 Description 📝
 
