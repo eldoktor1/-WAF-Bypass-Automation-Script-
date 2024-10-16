@@ -30,10 +30,13 @@ Run the script:
 Input the target URL when prompted and let the script run.
 
 
+
 Requirements 📋
 
 proxychains
+
 curl
+
 
 
 Important ⚠️
