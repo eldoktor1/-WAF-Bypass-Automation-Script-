@@ -3,11 +3,11 @@
 This script automates various bypass techniques for Web Application Firewalls (WAFs) using curl requests. It cycles through a list of user agents, headers, and URL modifications to find potential bypass methods. The script also includes random delays to help avoid detection.
 Features ✨
 
-    Randomized user-agents for each request 🕵️‍♀️
-    Multiple bypass techniques, including URL encoding, SQL-like injections, and header manipulations 🛠️
-    HTTP request headers to bypass common WAF defenses 📡
-    Proxy support through proxychains 🌍
-    Custom delay between requests to evade rate-limiting defenses ⏱️
+Randomized user-agents for each request 🕵️‍♀️
+Multiple bypass techniques, including URL encoding, SQL-like injections, and header manipulations 🛠️
+HTTP request headers to bypass common WAF defenses 📡
+Proxy support through proxychains 🌍
+Custom delay between requests to evade rate-limiting defenses ⏱️
 
 Installation ⚙️
 
