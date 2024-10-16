@@ -9,7 +9,7 @@ CYAN='\033[0;36m'
 NC='\033[0m' # No Color
 
 # Ask for the target URL
-read -p "Enter the target URL you want to bypass (e.g., https://www.vodafone.om): " target_url
+read -p "Enter the target URL you want to bypass (e.g., https://www.google.com): " target_url
 
 # List of random user agents
 user_agents=("Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.18"
